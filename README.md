@@ -4,7 +4,7 @@
 - 📫 Contate-me no email: artur.rp2001@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturevs&locale=pt-br&theme=gotham&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="artur-pic" height="210" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/93280964?s=400&u=8527c091a8ccfe4fffb72c6a4e8b53ca7061211a&v=4">
+
 
 <div style="display: inline_block"><br>
 
@@ -17,7 +17,6 @@
 <img align="center" alt="React-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="TypeScript-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="Node.js-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Django-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
 
 </div>
 
